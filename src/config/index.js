@@ -205,7 +205,7 @@ const ProjectsConfig = {
             links: [
                 {
                     tooltip: 'Visit Website',
-                    link: 'https://fastdownloadlk.netlify.app',
+                    link: 'https://fastlk.netlify.app',
                     icon: Icons['link']
                 }
             ]
